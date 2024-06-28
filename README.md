@@ -1,5 +1,5 @@
 # React
 ```bash
-npx create-react-app AopName
+npx create-react-app AppName
 ```
 
